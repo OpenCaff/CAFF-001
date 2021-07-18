@@ -1,4 +1,3 @@
-# CAFF-001 by OpenCaff is to regulate the APIs of smart coffee makers and make them interoperate. We will have new revisions
 # CAFF-001 r1.00
 ## programming
 ### all mass-produced smart coffee makers verified by OpenCaff must report using Python with different variables:
