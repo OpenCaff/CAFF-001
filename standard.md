@@ -1,4 +1,4 @@
-# CAFF-001 r1.01
+# CAFF-001 r1.02
 ## programming
 ### all mass-produced smart coffee makers verified by OpenCaff must report using Python with different variables or use HTCPCP(Python variable under this text:
 - 'ct' is "coffee temperature"
@@ -11,7 +11,7 @@
 - If it runs online, it must use a local web server with all the data saved
 - It must be able to communicate via BlueTooth and wifi when offline or online
 - It must be able to save profiles.
-- It must be tweakable (unlocked firmware, easy to code with, No EULA)
+- It must be tweakable (unlocked firmware, easy to code with, No EULA that does not restrict any hack by the main person)
 ## Data collection
 ### we will have strong data collection standards
 - It must not share any data to any central server or to any gov, advertiser, company, etc.
